@@ -1,2 +1,2 @@
 # ATHack-Keisha
-Dating app for disabled people
+Dating app for people having disability
