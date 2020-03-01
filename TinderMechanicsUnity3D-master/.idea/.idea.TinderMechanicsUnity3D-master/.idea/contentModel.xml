@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="ScreenshotEditor.cs" t="Include" />
+        </e>
+        <e p="LeanTween" t="Include">
+          <e p="Editor" t="Include">
+            <e p="LeanTweenDocumentationEditor.cs" t="Include" />
+          </e>
+          <e p="Examples" t="Include">
+            <e p="Archived" t="Include">
+              <e p="2dUnlitWithFade.shader" t="Include" />
+              <e p="OldGUIExamplesCS.cs" t="Include" />
+              <e p="TestingPunch.cs" t="Include" />
+              <e p="TestingRigidbodyCS.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="GeneralAdvancedTechniques.cs" t="Include" />
+              <e p="GeneralBasicCS.cs" t="Include" />
+              <e p="GeneralBasics2dCS.cs" t="Include" />
+              <e p="GeneralCameraShake.cs" t="Include" />
+              <e p="GeneralEasingTypes.cs" t="Include" />
+              <e p="GeneralEventsListenersCS.cs" t="Include" />
+              <e p="GeneralSimpleUiCS.cs" t="Include" />
+              <e p="GeneralUISpaceCS.cs" t="Include" />
+              <e p="LogoCinematic.cs" t="Include" />
+              <e p="PathBezier.cs" t="Include" />
+              <e p="PathSpline.cs" t="Include" />
+              <e p="PathSpline2d.cs" t="Include" />
+              <e p="PathSplineEndlessCS.cs" t="Include" />
+              <e p="PathSplinePerformanceCS.cs" t="Include" />
+              <e p="PathSplines.cs" t="Include" />
+              <e p="PathSplineTrackCS.cs" t="Include" />
+              <e p="TestingAllCS.cs" t="Include" />
+              <e p="TestingUnitTests.cs" t="Include" />
+            </e>
+          </e>
+          <e p="License.txt" t="Include" />
+          <e p="ReadMe.txt" t="Include" />
+        </e>
+        <e p="Normal" t="Include">
+          <e p="Examples" t="Include">
+            <e p="Blank Scene Template" t="Include">
+              <e p="Floor" t="Include">
+                <e p="Floor.shader" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="OculusSetFloorTrackingOriginWithoutPlugin.cs" t="Include" />
+              </e>
+              <e p="Skybox" t="Include">
+                <e p="GradientSkybox.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Cube Player" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="CubePlayer.cs" t="Include" />
+                <e p="CubePlayerManager.cs" t="Include" />
+              </e>
+            </e>
+            <e p="VR Player" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="VoiceMouthMove.cs" t="Include" />
+                <e p="VoiceScale.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Realtime" t="Include">
+            <e p="Audio" t="Include">
+              <e p="AudioDeviceDataReader.cs" t="Include" />
+              <e p="AudioOutput.cs" t="Include" />
+              <e p="AudioPreprocessorPlaybackListener.cs" t="Include" />
+              <e p="MicrophoneDevice.cs" t="Include" />
+              <e p="OculusMicrophoneDevice.cs" t="Include" />
+            </e>
+            <e p="Avatars" t="Include">
+              <e p="RealtimeAvatar.cs" t="Include" />
+              <e p="RealtimeAvatarManager.cs" t="Include" />
+              <e p="RealtimeAvatarVoice.cs" t="Include" />
+            </e>
+            <e p="Components" t="Include">
+              <e p="RealtimeComponent.cs" t="Include" />
+              <e p="RealtimeTransform.cs" t="Include" />
+              <e p="RealtimeTransformModel.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="RealtimeAvatarEditor.cs" t="Include" />
+              <e p="RealtimeAvatarManagerEditor.cs" t="Include" />
+              <e p="RealtimeEditor.cs" t="Include" />
+              <e p="RealtimeModelEditor.cs" t="Include" />
+              <e p="RealtimeTransformEditor.cs" t="Include" />
+              <e p="RealtimeViewEditor.cs" t="Include" />
+            </e>
+            <e p="Native" t="Include">
+              <e p="AudioInputStream.cs" t="Include" />
+              <e p="AudioOutputStream.cs" t="Include" />
+              <e p="AudioPreprocessor.cs" t="Include" />
+              <e p="Client.cs" t="Include" />
+              <e p="Exceptions.cs" t="Include" />
+              <e p="Matcher.cs" t="Include" />
+              <e p="Microphone.cs" t="Include" />
+              <e p="Plugins" t="Include">
+                <e p="Legal Notices.txt" t="Include" />
+                <e p="Plugin.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Realtime.cs" t="Include" />
+            <e p="Room" t="Include">
+              <e p="Datastore.cs" t="Include" />
+              <e p="Room.cs" t="Include" />
+            </e>
+            <e p="Session Capture" t="Include">
+              <e p="RealtimeSessionCapture.cs" t="Include" />
+              <e p="SessionCapture.cs" t="Include" />
+              <e p="SessionCaptureFileStream.cs" t="Include" />
+            </e>
+            <e p="Utility" t="Include">
+              <e p="Editor" t="Include">
+                <e p="ExecutionOrderManager.cs" t="Include" />
+              </e>
+              <e p="Utility.cs" t="Include" />
+            </e>
+            <e p="View" t="Include">
+              <e p="RealtimeView.cs" t="Include" />
+              <e p="RealtimeViewComponentsModel.cs" t="Include" />
+              <e p="RealtimeViewConfiguration.cs" t="Include" />
+              <e p="RealtimeViewModel.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="LeanTween" t="Include">
+            <e p="LeanAudio.cs" t="Include" />
+            <e p="LeanTest.cs" t="Include" />
+            <e p="LeanTween.cs" t="Include" />
+            <e p="LTDescr.cs" t="Include" />
+            <e p="LTDescrOptional.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Animations" t="Include">
+            <e p="MatchAnimation.cs" t="Include" />
+          </e>
+          <e p="Behaviors" t="Include">
+            <e p="CardDestroyerBehavior.cs" t="Include" />
+            <e p="HideMatch.cs" t="Include" />
+            <e p="OpenMessagesBehavior.cs" t="Include" />
+          </e>
+          <e p="Controllers" t="Include">
+            <e p="CardBehaviorController.cs" t="Include" />
+            <e p="CardController.cs" t="Include" />
+            <e p="MatchController.cs" t="Include" />
+            <e p="MessageController.cs" t="Include" />
+            <e p="PictureController.cs" t="Include" />
+            <e p="SwipeController.cs" t="Include" />
+          </e>
+          <e p="Other" t="Include">
+            <e p="FPSDisplay.cs" t="Include" />
+            <e p="Screenshot.cs" t="Include" />
+          </e>
+        </e>
+        <e p="SuggestPlaces.cs" t="Include" />
+        <e p="UpdateText.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="TinderMechanicsUnity3D-master.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_TinderMechanicsUnity3D-master.-502339038.00" t="ExcludeRecursive" />
+  </component>
+</project>
